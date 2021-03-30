@@ -1,1 +1,1 @@
-worker: python tc.py
+worker: python shell_script.py
